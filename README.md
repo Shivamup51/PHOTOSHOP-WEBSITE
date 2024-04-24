@@ -1,8 +1,8 @@
 # 
 <H1>PHOTOSHOP-WEBSITE!</H1>
-![IMG1](https://github.com/Shivamup51/PHOTOSHOP-WEBSITE/assets/166123727/00eda9df-73f9-4baf-8bca-420a88669b9f)
 
 
+<img width="947" alt="IMG1 1" src="https://github.com/Shivamup51/PHOTOSHOP-WEBSITE/assets/166123727/68c76a81-118d-460f-aee4-3f44148ad5c9">
 <img width="938" alt="IMG2" src="https://github.com/Shivamup51/PHOTOSHOP-WEBSITE/assets/166123727/4151e2fa-c154-4ec2-be21-f56e7a798df0">
 <img width="941" alt="IMG3" src="https://github.com/Shivamup51/PHOTOSHOP-WEBSITE/assets/166123727/8e1ca7c7-c8bf-49ad-8e91-d6e25c566412">
 <img width="946" alt="IMG4" src="https://github.com/Shivamup51/PHOTOSHOP-WEBSITE/assets/166123727/21ec6358-5f20-467b-8d4c-fd2be03ab4b3">
