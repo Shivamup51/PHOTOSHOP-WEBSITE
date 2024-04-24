@@ -1,5 +1,11 @@
 # 
 <H1>PHOTOSHOP-WEBSITE!</H1>
+<h3></h3>Project Name</h3>: Choose a descriptive name for your project.
+<h3>Description:</h3> Briefly explain that the project is a responsive portfolio website showcasing Photoshop work and client photos, with hover effects for interactivity.
+<h3>Technologies Used:</h3>  HTML, CSS, JavaScript, and Bootstrap.
+<h3>Features:</h3> Highlight key features such as responsive design, hover effects, client showcase, navigation, and contact form .
+<h3>Demo:</h3> Provide a link to a live demo of your website if available.
+<h3>Screenshots:</h3> Include screenshots showcasing different sections of  website.
 
 
 <img width="947" alt="IMG1 1" src="https://github.com/Shivamup51/PHOTOSHOP-WEBSITE/assets/166123727/68c76a81-118d-460f-aee4-3f44148ad5c9">
