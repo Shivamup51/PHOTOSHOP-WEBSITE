@@ -1,12 +1,13 @@
 # 
-• I Spearheaded the creation of a dynamic Photoshop website leveraging HTML, CSS, and JavaScript.
-• Employing HTML, I meticulously structured the Webpage, ensuring a cohesive layout and intuitive navigation.
+<h3>PHOTOSHOP</h3>
+• I Spearheaded the creation of a dynamic Photoshop website leveraging HTML, CSS, and JavaScript.<br>
+• Employing HTML, I meticulously structured the Webpage, ensuring a cohesive layout and intuitive navigation.<br>
 • CSS was instrumental in elevating the design, implementing captivating visual elements, and applying hover effects to
-enhance user engagement with text and logos.
+enhance user engagement with text and logos.<br>
 • Leveraging JavaScript, I prioritized responsiveness, meticulously crafting a seamless experience across diverse devices
-and screen sizes.
+and screen sizes.<br>
 • The website prominently features client and customer photos, underscoring my adeptness in both web development and
-design, and showcases my commitment to delivering exceptional user experiences.
+design, and showcases my commitment to delivering exceptional user experiences.<br>
 
 
 <img width="947" alt="IMG1 1" src="https://github.com/Shivamup51/PHOTOSHOP-WEBSITE/assets/166123727/68c76a81-118d-460f-aee4-3f44148ad5c9">
