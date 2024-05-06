@@ -1,6 +1,6 @@
 # 
 <H1>PHOTOSHOP-WEBSITE!</H1>
-<h3></h3>Project Name</h3>: Choose a descriptive name for your project.
+<h3></h3>Project Name</h3>: PHOTOSHOP.
 <h3>Description:</h3> Briefly explain that the project is a responsive portfolio website showcasing Photoshop work and client photos, with hover effects for interactivity.
 <h3>Technologies Used:</h3>  HTML, CSS, JavaScript, and Bootstrap.
 <h3>Features:</h3> Highlight key features such as responsive design, hover effects, client showcase, navigation, and contact form .
